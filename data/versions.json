@@ -1,0 +1,2839 @@
+{
+ "country": "RU-VLA",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c7bdd1e7102b2c71bbe6b5b23299c5ff8889b43c671d672ae91703507745acaa"
+    },
+    {
+     "from": "2014-10-30",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "18ac8e937adc26e80ff38fcced99b35dcc462c0d9faaaa0fa8a57d7bfcb00945"
+    },
+    {
+     "from": "2014-10-31",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "82978e4f1b7a91edb6b2f73fe62485613cd6fe3ed948ac68448051f4e2bd9acb"
+    },
+    {
+     "from": "2014-11-13",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6912e4f44f37e96b241c109da0966d0b0ef0c419e63e3e15d61f50b73e83c1ed"
+    },
+    {
+     "from": "2014-11-17",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b4c7d15c1b348863143ad5267a800574931100386b8293550100e58070b20c45"
+    },
+    {
+     "from": "2014-11-18",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "855ff2021d24f4063d54f8a787e60d63a696db43c48f0b6d69ae0a724311b15f"
+    },
+    {
+     "from": "2014-11-21",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "53a64487576cf611b77ff6e72a42cfe05afaf6977f8dc78751b6270622ffb18a"
+    },
+    {
+     "from": "2014-12-01",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ccc2a653734c7d4bfd0a2600e0b0fc634783ad33aba9376a38ead73fc834ab2f"
+    },
+    {
+     "from": "2014-12-04",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7a07e29f65bebdd8f181350ae15cd693cea593cb8a4f8ad692bea8a93088ed55"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f6aa025373bd39fda426d6ada03849037acf69e5b71287a290562d3febd9c88c"
+    },
+    {
+     "from": "2014-12-09",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8a951497964222e517bb92337312036f33f90db6409ac3e86151e30d5f781f98"
+    },
+    {
+     "from": "2014-12-12",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "cb0ba69b6a9f9759fe916f6350f9118785a231b3fe432da2a69241be903e51d1"
+    },
+    {
+     "from": "2014-12-23",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1d56932a5900efe1484564bb055c6763af1d1fbdd099be6475adaa04b7192c33"
+    },
+    {
+     "from": "2014-12-29",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "df69e53fb5ccf169e7c42bfbc896c9547c2aee35e5a1003ae96f4e12d2d8e2db"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f1aeff356a149a6d95128282fdcefc9c85342ae5e8f9c4fea144afc10ef5b838"
+    },
+    {
+     "from": "2014-12-31",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "197062a651e2a9b857e422ffc066803125472edd710f9a252d3567655f0f3469"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "14a5a17aeadb9686e31dfeaddc39110d07a6ceff3831d8df1639c03b9de5e4c4"
+    },
+    {
+     "from": "2015-02-13",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ec17a5526bbb4862db8a95cea7c558d76534f7e9cf4d7ff3e0c5f4eeb576e1aa"
+    },
+    {
+     "from": "2015-02-17",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a6ec22d08a61bfbb5df2fe288ab2158827a559c910d0aafb8a87abf4e3516d2c"
+    },
+    {
+     "from": "2015-02-19",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "742d034a0d542266012fa98512c93e27d796fee95f84b93696433d2646bd67f7"
+    },
+    {
+     "from": "2015-02-26",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "583c2c8272ce45f8669d1f657fb426d5f18fbc4af2854c77706592fd1e674163"
+    },
+    {
+     "from": "2015-03-05",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "df0756e30df395bcee24b15ee789c58a699843233898d622eb435d1291dbafa3"
+    },
+    {
+     "from": "2015-03-06",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "82c9db70d7a1130c9dc36c254505ee23e939de01ff3a3b5791de66a0c7e6c9fe"
+    },
+    {
+     "from": "2015-03-12",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "74295e3a4ec9499c0f274b8f1c093f93e004273fb0be97193ae9bec73f387a8e"
+    },
+    {
+     "from": "2015-03-13",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "05ab962e09af82b26e79c1891353a976c9dcdd6e11cacf214d966cc02d9ca803"
+    },
+    {
+     "from": "2015-03-14",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b55f337b743db425748235805de9d72daf2da94aadbd2cddb642ef5482d09805"
+    },
+    {
+     "from": "2015-03-30",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b819c47085f95873d7d29d69b9ebb26cb8ade2e28bf3dae63da3b1bbf693ba3d"
+    },
+    {
+     "from": "2015-04-03",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "82c4beca3d038c6f6738b8d7d3ea6139d5fdc8eeb4bb8cfb623fe7b69743e8a2"
+    },
+    {
+     "from": "2015-04-07",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c161bcb1ebb44ef2d2ad38f1b0840ebd1d4ff6a54378b739d65f5024db2df431"
+    },
+    {
+     "from": "2015-04-08",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "721675b56330bb4a51222760ecc5495d6fb88c55db62dbdc878be401dcdb8167"
+    },
+    {
+     "from": "2015-04-13",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "36182679307e658795b103cd052794a2d656db4dede31cdf91654aaba3ac7583"
+    },
+    {
+     "from": "2015-05-05",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "09eb906731a930e0db10dbb4a905e391dd7d34e9090d73545b4e9c5bedbfe2fd"
+    },
+    {
+     "from": "2015-05-13",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2c9e78162166853f26a945cd25e1b7f0030b324a34824ce8ec39d1e9d417fddf"
+    },
+    {
+     "from": "2015-05-20",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6ded0d185dc6004381e90bae77f24339070cd9cb0f53f44e4c108fbeb98e369f"
+    },
+    {
+     "from": "2015-05-29",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f7897324ba60d4106d9352b8915c5b5313b22a4cae988ea690cb08ab4bf1e293"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b65870a1e2fee8e71c146e9f498d969019ee5146d34985f5a41e1d03d3aa3f35"
+    },
+    {
+     "from": "2015-06-25",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7e48a2d642bfbbe7b0e3bfbcfa413171db24b9971624d300848dca7f608dd14d"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "55fe065ff98ade92bbf92b9236e38c73a7b82529c06842fbdf6c97699804d584"
+    },
+    {
+     "from": "2015-07-02",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "86a5ccf946bc07b5b92a99e238602b38d1a699f9e4dff6dec6fce0b5768e3aa3"
+    },
+    {
+     "from": "2015-07-08",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2ea7d8b36f6b67876c7ed30252470bfa52cf3fae862b9c4ce8926e1195fd3a9a"
+    },
+    {
+     "from": "2015-07-09",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8f5fb90d5ebb9e6fcd0a19daae38cec13d84b57557d11c59a770be5c204671a4"
+    },
+    {
+     "from": "2015-07-10",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1f0120bc8c82d811dfd3bc11a56ed2bd63270f464307ae4b9667f7b98949c653"
+    },
+    {
+     "from": "2015-07-11",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "057827f47530047fd97fc733f09e39acbffd36c98f7285eaa86692fa58af5de8"
+    },
+    {
+     "from": "2015-08-07",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7a6cf016535d185cc57a28fcea6868c1e608dfd19d2e9f5a0c3628f82fe11c8b"
+    },
+    {
+     "from": "2015-08-10",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8e76a83924ca36292ff7edd820a521a84a7c0f55b20f6fab14033be21479d356"
+    },
+    {
+     "from": "2015-08-11",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9091d3ffdf93d66fb6d581e4b528a0d1027ed9337cc35fb2e00477eae5cfe19b"
+    },
+    {
+     "from": "2015-09-15",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5d4da54033ffeb51bfbd0c719f94b96cc7d4a3bfeb9f1d0d06606b43819dabda"
+    },
+    {
+     "from": "2015-09-29",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4af3f3f4ecae4b1f89130698356c9c3eafaf614f657dfb2bc11a9eb31c7ef3b3"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f497c675a39441f88a820680fda9bfe3ff4b58c0432acbab8ed052b92b31bebd"
+    },
+    {
+     "from": "2015-10-06",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0be4efd4a761f35032423b04fa4792bc8ffbc924fda457f10963693ccb5f0716"
+    },
+    {
+     "from": "2015-10-07",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1951bca7640acf23079dbc7ce3c3b86667aeeed93e7c8d792218a3e44380f2a6"
+    },
+    {
+     "from": "2015-10-30",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "44021c0648a079913c277cf2460edb4dfa591636bad7214bfc31cf86fc7d6426"
+    },
+    {
+     "from": "2015-11-10",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "22cf5bbfb452faa86add926708c1e0c06865f4a07bcdb77e459523fbb0d48eeb"
+    },
+    {
+     "from": "2015-11-13",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "abdb06504dbe4edc48edd0b00e2e8c22c6ac979419b612601e9a27d99a375881"
+    },
+    {
+     "from": "2015-11-16",
+     "units": 160,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "78e90871c2343017526b2d9cd7ee8a6da8037d5c11184c62ef4a671c4c83ba10"
+    },
+    {
+     "from": "2015-11-27",
+     "units": 161,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "777812e0f6f217c581d41fe7455e9e66df754c4677efe18c3c818a51964f307e"
+    },
+    {
+     "from": "2015-12-01",
+     "units": 163,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "aba1df4a3e9798973fafdcb88665ef9b36d246039bbcc789c5421139f85bac31"
+    },
+    {
+     "from": "2015-12-03",
+     "units": 164,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6dfe4f5e2ca254401f9e791ec6de8819a43efbdb7595bd9fef0899771d83688a"
+    },
+    {
+     "from": "2015-12-04",
+     "units": 165,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7f0762447c949a3233dc1db188df8d1219c929b9ce612da5159d11378fa21d58"
+    },
+    {
+     "from": "2015-12-08",
+     "units": 173,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1093982edde51da9ae185b3eb765e45de7746ed54cbd1c6cb0f0e3ec23aa7d9f"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 177,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0772cba148d90dbd9f58359adb16ef25fedbbaf7d3c51ab45ab1c462dcebe3b6"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 187,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5bc8bd1569d7827f8b6753bb4e1854bf81b226735d761cc82fdef2e6ff7c4916"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 193,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9f09668db14720a240839697936848bd6c33d6ae8828a078bd251612dc3a9d52"
+    },
+    {
+     "from": "2015-12-30",
+     "units": 194,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8f9f9306d2535a3b9588d706fcdb2599d207f35cc523827dfa17add68d1cdb48"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 207,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f73a003d93007186bd155969007fb97dab94c94f327df963eee1376e797069a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6795c97513bc2c85e5cfccdf5d59376bbe5e35cfc5c0049e3eeedaf7e84434f1"
+    },
+    {
+     "from": "2016-02-09",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1285b45ba11a30602863c14c0c20d07c8fe86213fa3d1fd899cfafd1ca09488a"
+    },
+    {
+     "from": "2016-02-11",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fd8a7a7649af3d36e371619a816d6909c1469f91a64a47a288d70ca63114f61d"
+    },
+    {
+     "from": "2016-03-02",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "695b149900f383be552364ea0a7f255cfc6060db84047d04f3c8a5e13d2177db"
+    },
+    {
+     "from": "2016-03-04",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b567d0c693b98ea7cdfd0390464c2487a05722e184e93b77be487a87f6454ad9"
+    },
+    {
+     "from": "2016-03-10",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "68ad94af7d0fb3c993b1481dbd6f6a9fe3a5fb92fb45e909f360b00be6ecd9d0"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "39f5313aa353c4badd90bb4f0a77cb607dab63b500327f61809c13d4ccf65ab2"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "031526c7badf3b18aba48b03305118eb3dcd822e31905a987d6e4e969aab3cbf"
+    },
+    {
+     "from": "2016-04-07",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4168a96100a38b92ab27d8dc853ccfcb34315e5617a146643b2ccf9527c36ec6"
+    },
+    {
+     "from": "2016-04-11",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e03428cc255e5e3fa02e51c6e71c224a6a4359ff0fb6aa3f9077f52199bd4bf5"
+    },
+    {
+     "from": "2016-04-12",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "19cfeb55074e4b1719c774531ae818f258c791ef57e188b0ce3db896ffc85ecd"
+    },
+    {
+     "from": "2016-04-20",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "853b704385d97049cb1d95113ec378ac8a3dc8ba17930840dcbad822f08ca4aa"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ba3e3a6cda0243e1603bc7535622e129629ad82ff6f23fbbe9f9cb7da9d59ac0"
+    },
+    {
+     "from": "2016-06-02",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "49b17cdad4a1649e5e0844c18e06b892b64102ed197eeed4b4f841dc429dff4e"
+    },
+    {
+     "from": "2016-06-03",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0af7c7ace07f9f3b61421754622064d7c250a76353223db19b3fa0bd6c9ffd13"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6ff3d73ac10041040a2520587a589bcf3cefd8114c767e19eb97e454df875c0d"
+    },
+    {
+     "from": "2016-07-04",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3aded177d280232b2ed77392e11d1936edd33f5fe3cc8d84da4926e036ad2007"
+    },
+    {
+     "from": "2016-07-05",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "bdc7fc558f531e4b78be0018418d5ed842df223b2c3a3f0680b0959261a1e50a"
+    },
+    {
+     "from": "2016-07-07",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "00fdf9d2a9813cb34f86da330a75ec86656fa77a803af0c013fa48807276f500"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6a4b52269486286cc7f3e9f22c3f11ff485a06f2468d74c1868ade1e5be7fcb3"
+    },
+    {
+     "from": "2016-07-12",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "389130c292e6dc595e25700adffe132b51b6d6bd9a990b7a415e40c4cb791aa3"
+    },
+    {
+     "from": "2016-07-13",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ab35fc8221401990523743a1ef796b3b3558737d51a9ea6e8b023616f813ed01"
+    },
+    {
+     "from": "2016-08-04",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ffe39792f66b859e27fb903b3677387ef5bbfb81620962a34c7eaf0a39f343a7"
+    },
+    {
+     "from": "2016-08-08",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "acc05cb39436cae60e4b55019baf82bf16920acb0c71fd7148bcbb56f17c7b07"
+    },
+    {
+     "from": "2016-08-09",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1d709f638dff53b955bcba20e8fcbff2da0bbadaefe49d67448971a8eadb5ffd"
+    },
+    {
+     "from": "2016-08-22",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0de7b776fda9c9ee2f893d785d4c3a4efb64a550cbd98454594cc41cd814d405"
+    },
+    {
+     "from": "2016-08-29",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2fdd3251b6f0dbb3f3f6033f86a450e281c18e1190660627949e044a1f758c4a"
+    },
+    {
+     "from": "2016-10-06",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c14b70af71849cf0a78b16ef9dba04238241f3576796a1545d3ec1a2157b9603"
+    },
+    {
+     "from": "2016-10-11",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d5d0090ddd2eb2e2f205fcc061f9ae6dd833794febca0b5e54d598a282c1ba9c"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fb3462aa92dac6a0d9b1d11be3ed617109cdc50172ca2d0b2c937a22f375e0fe"
+    },
+    {
+     "from": "2016-11-07",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d65b29808b060156af42da5477091103bdf2584c332d85228d15b95215d90546"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f3d0a7189d54126d1b98155cb21efcdaed3e39963ff14773a54318d8e7c0fb1b"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b047326b4a3f7065c69220c182bb11e4d07c1328548de660d9a22ea63db2ee02"
+    },
+    {
+     "from": "2016-12-13",
+     "units": 153,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3703b254ee11838c3e82bef8508762f6043422754ebe2518d53b2ddfc31b839b"
+    },
+    {
+     "from": "2016-12-14",
+     "units": 156,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a762fdec9470c62a96de6c30b89b91ad2be225eee388094c8b0a9da2ae72339f"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 162,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "81cb7eba529f40f0ef1c8eca6dea3bdcac2347a243430549545867566b7a8f37"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f1a17ad3e2e51f5acce8f06aab7ae026a196abe522853adcf3a6deca5a1fe747"
+    },
+    {
+     "from": "2017-02-07",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "77c887c5a65793b33456661aa64ea365933c94c5d59cee77ca9a643c1e757570"
+    },
+    {
+     "from": "2017-02-16",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "30468bcba8c36e2da88ae5692c28809b9a2b48d3743399b71cd03e470dc5aaef"
+    },
+    {
+     "from": "2017-03-06",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ecb667d15e69a4ba53072f007465797e087df5285ca564ac51c5e8473298f07a"
+    },
+    {
+     "from": "2017-03-13",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "65b192bc61f0907db18a3d8905e6511da201d682b25fba31bd1f34be108c5c88"
+    },
+    {
+     "from": "2017-03-15",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "adf71b86a8e1a7930cb6af76f4766b5ef3e8d2bd9edb0c89000b48934a4f85f7"
+    },
+    {
+     "from": "2017-04-11",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "09bbfa34b7f404c7cd450e570287c6fe80a706b412f855457c1de3ba6e5ce9bb"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a44f45be37a1fbd087088ffcce2fed0d6439ca852df391fd1185715321b591c2"
+    },
+    {
+     "from": "2017-05-31",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "03357648d0d34f00edefaa937c5fd8c2c1ed814ec7c90c694d6ec17032852c05"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d5733a31bbac598fc5ac3022ccbf6c52531587de5149991f8811766446548d39"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c8028fd4153f4f5cd65a7661859434f98825739212b944aaa758ef69b677b67f"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "aff523dc6f231b4076c6d14bc9521eb779dc237b7b0fe56741a6741e930466f2"
+    },
+    {
+     "from": "2017-07-04",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a61f19b9ffec0a1659c4cdf2b901c00120b67870ddcf423c308666054968bbab"
+    },
+    {
+     "from": "2017-07-07",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d2cdec9b6dcbc54c222282703b444bbcda8767fc31882328c1f80f5d22de0f8b"
+    },
+    {
+     "from": "2017-07-18",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6614250efc71fc2b83afd2ccb1ebc76f7ae5d226849b12c7e1dc8c4fcb592df3"
+    },
+    {
+     "from": "2017-07-27",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "77294a3122d4fe81956becee77aa871a65ec72e6232a8704c8a222a761453878"
+    },
+    {
+     "from": "2017-08-04",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d289b4b00fead390fd93556b173de2e239741dea2867bac4cbbeae2512845ab0"
+    },
+    {
+     "from": "2017-08-07",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "db062b0c90caa5f56d6d698d45f92fb7f78203a19228fc1cd4c6a975f6df5c8b"
+    },
+    {
+     "from": "2017-08-10",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "71e9b1b6819a47c0478a495f37132dc499db9e91aedd5b2ec4d4f65865904a89"
+    },
+    {
+     "from": "2017-09-25",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "37ca604788c498c018604f331adcf997bedabccd5f024dae89ebd1776885a82e"
+    },
+    {
+     "from": "2017-10-03",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "75e3022099e31f070a1d0bbcc60b1db70adc8f11d28e4cc4b4441748bb04b91a"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7d946057fcc306569557f6cc111b9de89f37e6c50c2c869f5b048156dad2c46e"
+    },
+    {
+     "from": "2017-10-27",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0857235e52ccb3aec3c3d60c9df6e4a79cbe538c34378cd9ea1c7b3dbdb2e8b4"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "39657a46dd5da3688daccdf7c86069b670a99ec72ea14f1cf1afe4a2046be4a9"
+    },
+    {
+     "from": "2017-11-16",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8bf7c855ebc64107c24925a65141afae2eff36c0a488e4aa78700fb5c48e521c"
+    },
+    {
+     "from": "2017-11-23",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f5d9b264facfa11cdb2a2a08896802c65be9aadb6e9a9938a9b40477a80c87d0"
+    },
+    {
+     "from": "2017-12-06",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a35a416bb09e68ba850255b6adc47326a74f9eacd337d5ca66062d30d278cf3d"
+    },
+    {
+     "from": "2017-12-11",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b1b623617c5679c008a3fdcd540b652030639172b0e42f07547dc6cf42d3807c"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "446fccd6d944c3549218092d635f8bf6925a25592244ea93ff9ea99d25672be8"
+    },
+    {
+     "from": "2017-12-13",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d7f164a72f10fd2872a45db400801dc019fbafa8a05892ca7bf38fa19bf2466c"
+    },
+    {
+     "from": "2017-12-14",
+     "units": 129,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c0a2900e4a2d62bf5da0bea1dc9cbf39a1d1dd53b2f72ef704fbabd7c28bafef"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ae635668305f0a4d3b9d21eea1c8228a892f23e3ec7295733f9af2dda358d2ca"
+    },
+    {
+     "from": "2017-12-27",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7b14a8ec0530094f8d46f9d1ca9ce41d61c1d99bdd6f5bca0be2e673778c74d2"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e52ca418f812b7f9df29ea5bd64b0bdb6abcec609d32c86a8df1f2b5df672740"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "29dc5a67071c4bb7c684f75cdb5a39c189d9280d6d0fac9cb96e3960c49ee6d7"
+    },
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "edfe83158fdfbb4cf34c3d505ed8e6653a022581c01aeca35604bbfd7ca9a2d5"
+    },
+    {
+     "from": "2018-02-14",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f02f45f003d8c722962cd875db1bbb2bbe38f8943c01d1da0979ab847101f89e"
+    },
+    {
+     "from": "2018-03-07",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "624b1785dacbaabbf69402658895c8452d2bbbd209f532694eb359258fa8cba4"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "47fe8f132e55799d4ced26eaf9389635151b5e6109f2f8fde01f7988898a1ea5"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "408f7be477729c2ffeb01ef2d9e3a0e7b9c02d721d98e4a00c93c2828273cb15"
+    },
+    {
+     "from": "2018-03-16",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "584ab29b20f2c091a552bec65dc00004997221425cd886238489267ee87d1cb8"
+    },
+    {
+     "from": "2018-03-20",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c510e6b8423f207231245fabc8febf377d5af4d91a93aa553ae8191e8b74033b"
+    },
+    {
+     "from": "2018-03-29",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "44f6834ac084e4da42241c21dc6512a290dcb10c276565221ab1d6575e43cbd4"
+    },
+    {
+     "from": "2018-04-11",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "86cc1b5d4769a6468195dbd3b3a549e0bb98bd9aad534d561bc4171a47230dce"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "da2a2051a06c2245e44703665e83f79a6e9362a8bdb01ae55cb2cb3bcab4b5e9"
+    },
+    {
+     "from": "2018-05-11",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3dfc0e94f0e369f7d025ebfd80f07a758ac4816ff9f4359cc4576dbf98558c8b"
+    },
+    {
+     "from": "2018-05-25",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f4c8624a72305397dcd9740ee4bf67198de633e700c65fa94c88805fb068e38c"
+    },
+    {
+     "from": "2018-06-08",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3a20ca97b9c5df76f71a130a7411bd8ff827e6a3bbd290d413919776ec442c4f"
+    },
+    {
+     "from": "2018-06-13",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "49c6b526fad5ccb5954ffa1f593112a3e502fec54dcc3621bd672eec30388a92"
+    },
+    {
+     "from": "2018-06-15",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d49603ea2f5eec17482190364d5e6c9b65793d68316e7f6059b22e385552f80f"
+    },
+    {
+     "from": "2018-07-05",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "dcc031245a0b8f063dc64951e586902237197d65e32dbcb185318d09cae12fbc"
+    },
+    {
+     "from": "2018-07-12",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "948730ed2692c2348ee47b2c85443c59dc244e8eb807f26d8cb686f2e5d747a7"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "97a7d82fccb915d2ded0f743919d9afc56afb474c5d7119c0e3ed30bf035ba43"
+    },
+    {
+     "from": "2018-08-23",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f38ea1e4e0f36ebb47b65dd4ebe0ab52d4e6e6c7397c18e3fb3b844da70ab544"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "50401f733d0ef707c25dc6caca6793f30e9448a6f2b0a4581a544588bbce00e9"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "afcd0f17ed6920f38a07f0b77e3a90202d57817c78f119605f4c36f73fe2d57b"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ec867b272adc9bf55e399e736af376448f48bac5b6bd69f5cf21b88c7f267b45"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9c49a458050dc621faaab8ab06710ed7e317dac6184ac1e12bfc86c7333c1e5d"
+    },
+    {
+     "from": "2018-11-22",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4f41b990228de17efef48417c275e45ffe626e73b815d92d174f76ccfa5a2782"
+    },
+    {
+     "from": "2018-11-26",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "169a2346901af8a3b4f8884848b6c2ec6dd0e1d3e9f6d32fdb797b86810db348"
+    },
+    {
+     "from": "2018-11-27",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "335bc84e90770bfb2ab2c9335d8cd970b40fe3e25b7f89e831082308460b3031"
+    },
+    {
+     "from": "2018-12-05",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a590f30000c4bb0efc63b9108a2997d8201ffdfe8d4ddb22154d8fda8d7e1c94"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "26e28bf0fd65dc309ae7aa7c60e41470d5bb33b4f55d81b3149d658b46062f7c"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a0e95cc2faa887d2d347ff9390ddc12b4234b6ed60914124873e554639500b89"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2983fa299a849a14c60c66da9c804d808b40b837e9344560cc47151f8d156fa4"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fbb975d652c92ebe398ad0ca1fbad885547aa0b577b3f5e431a3ffa1c72a5831"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1e3229e3aa2c46310a792f6f2d5775b8f171b82fe49e96f10a343727d9051455"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2019-02-11",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c36ba4395be64b05fe5f465391ebc8b33330ef57812c94700197407f2ccd881e"
+    },
+    {
+     "from": "2019-02-12",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "61e0596b55e09f3c5f24ebe5e2b31ee4fa5278adaf4685839c5f60fae940074b"
+    },
+    {
+     "from": "2019-02-18",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2abe0544071724902fe0669eefae0e5d0ee2581ca0c8c2532aae3ff06addea39"
+    },
+    {
+     "from": "2019-03-14",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7d4d5afb7828f79c46603019ca4e3457e74bbb6313d518ca2bf8da1f64ae4efb"
+    },
+    {
+     "from": "2019-03-18",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0aa864a00a217daca41f453586a5d77d741f589757fb0a4a2140bea4cefc90bb"
+    },
+    {
+     "from": "2019-04-05",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f21a87045c74bfeeb768f89eed5aac0b244f7828f909f39e6c3a431f5593c421"
+    },
+    {
+     "from": "2019-04-08",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7a1c6d5fe17366110dd5b94a6871a9764449f3b621dc6910dd3e4e88a9698609"
+    },
+    {
+     "from": "2019-04-09",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a080994327fd1529d31ee70f6128f3a75fcade51e5b9bb858b80c68d6c169517"
+    },
+    {
+     "from": "2019-04-12",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0493eadffe264a8be9195835d5efb19f6ebf498695ada3d24f52af561db2c9a8"
+    },
+    {
+     "from": "2019-04-23",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "705b790cfc74bc564a5f6e95a119170bc968d957b2697b0ff8dba42582b51c57"
+    },
+    {
+     "from": "2019-04-29",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "530e1d6970c72864c066c74990e1864dde59d4d58dbc15442f970fb837e128db"
+    },
+    {
+     "from": "2019-06-11",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7d0273d2144e2ce3bb960358f29a394fbf74da1b608cbf013561c9d052d91daf"
+    },
+    {
+     "from": "2019-06-13",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a8c7366bc716980e3c7755b10caa9410fa75357f2f5454b576426df157d9763d"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "876ff1d268458368c40e5642abbe1732bc1e1bd614a4d48bcbb06e1368e3399f"
+    },
+    {
+     "from": "2019-07-09",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e81e55455f47228c4b229bd997b618163f5ea6fc08a98af633974a9280f6939e"
+    },
+    {
+     "from": "2019-07-11",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5982de4034f4bf6e31b22107f262d3f4e1dc52dfd663649e55f627134651f036"
+    },
+    {
+     "from": "2019-07-29",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5e557362cd6196fc830824427a669688ea20d56b92929b645f80de95a64cba06"
+    },
+    {
+     "from": "2019-08-06",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "dc851d7f9a8722706cf40453f7c4ec06d9d22db5711d9493b2bc373a7a61c5b7"
+    },
+    {
+     "from": "2019-08-08",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4b26cf99896692904873b1f332fb65141ceca4b799e67d052407ec12f6560f6b"
+    },
+    {
+     "from": "2019-09-20",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7e4a270ff8ed1bbfc1fa3037543752fa1c887e8cf23d6924fabd8347cd7b07eb"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fb832e8bed3a0051c23c91853011762f4aeec0db14c3dbbf4940feb23da4696f"
+    },
+    {
+     "from": "2019-09-26",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "782c10b4c53374c786e635c79ab4fa8e0cfbc61c9531f0d6119157c455254702"
+    },
+    {
+     "from": "2019-10-03",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "09ef20a194818a15ba9b87a3a60bc3748218d54dcc88d007da5cd23d11be3e7b"
+    },
+    {
+     "from": "2019-10-07",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9df6408630bfbff7f071020cf13b23f1487ea2acbccdabe0aa2524c931c167f7"
+    },
+    {
+     "from": "2019-10-25",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "bf7ab9cce5ac905beda8af50401c682dc58822c24bd78555919379235d2094cf"
+    },
+    {
+     "from": "2019-10-28",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "af35b20571886489830c4c164f51fa24921411038348da0b9e9cdde4fec93b94"
+    },
+    {
+     "from": "2019-10-29",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "876e8e1653b9cd81e77f6d3e74f00883f9aa93f57c934890bd215e9c5baea41b"
+    },
+    {
+     "from": "2019-10-30",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8b6f8727e5b9d7df35ecb9db2fc9df7dd3c819d18c9ca9adcbd792e2cbca2416"
+    },
+    {
+     "from": "2019-11-05",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "021c3302768fd65d2fa6303ba72c969765076544e7bdf2e43eb91b5c390797a5"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f554a85d2e08b29b2f6dbbd34aa417062b3ee05f18b57859c4ac556ddfb9a05f"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "53bf8c40ffb303acbd71e524fe2d702004a0f90b4e61fbf60d6d242c1a7e0182"
+    },
+    {
+     "from": "2019-12-06",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "cefefcfba8b7896cb360ac375c24892e886d90335b06f30e63a2d41a2a433502"
+    },
+    {
+     "from": "2019-12-09",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f79677780f1c170cf9b1c05503b931c537fc36cbe3eac5bfc1f006fa7df2d221"
+    },
+    {
+     "from": "2019-12-11",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1e33af0871517cd90b103d9456b14f0ecf232582d3b44b5a0747d35d351e77ba"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "89dd634c54b87a1f8c7a33fdaa8324d56efe65556812b69f432e01322d4fdd78"
+    },
+    {
+     "from": "2019-12-25",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ac420c87f216882a8c2f0dbe9010a487b104c71064e1fe2dd0f87d823205b94b"
+    },
+    {
+     "from": "2019-12-26",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "659623d89ef7291b18398791e8f1fafaae7fa3d73f10c274e5c27a4653e26356"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8f439714fea6dbcd36a4f2c571caeae721ab978b034b79c3ac716ba28fbaf16c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "84b11ae6966b0aefeb7348e4c4438b71f244d6c2a77b69fee1e3c3c402f34f6f"
+    },
+    {
+     "from": "2020-02-12",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e7fde573b086ec61ebb51aff67419b8a4d136a93b7a88b4f89cf72e2e54ae3aa"
+    },
+    {
+     "from": "2020-03-10",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7a83e86e74f494bcdb079cf104a743a92e82e64bbfbedb7125616d447bc41e57"
+    },
+    {
+     "from": "2020-03-11",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "40b2551f30321377a8c4dfdfaceaf23f0cf732596e62fad980472f624836a280"
+    },
+    {
+     "from": "2020-03-16",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0ad7b9cb735198315728c25c26bee38225e8bf31b3a8b9a2bcbe83d163a7bdbf"
+    },
+    {
+     "from": "2020-03-17",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "619be2cf7ec2f1a6252f3528886ee9a0b83b9062b3f665a18e6ebfdb659e040e"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e02202f316ac3ed9263bfb52563035cd75b3d0d1a6f5f5865b9542fc2f20334b"
+    },
+    {
+     "from": "2020-04-02",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6a9a170a4dd4a82bcd177d05deba777d1b61994dff95aac2fad02d7c9928ae5b"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "cd142b9631a8b77ea356d93475ddb2aaf56e9f57521521c1da6f5c2078f9ba64"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0c092233bc328295a6de51fdf65523164a05b07bd3d3bd9a12e6233c4a865c40"
+    },
+    {
+     "from": "2020-04-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d3772bee3a79ef9d22bab6c3eaacaf2df1b82fc9cb74e962b053cc208cb76813"
+    },
+    {
+     "from": "2020-04-09",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "dfeaf19c577347f19425d3d3763d3647cbe46e7ead13523f3d1d321aa429d228"
+    },
+    {
+     "from": "2020-05-07",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7d315590a5e0167b15a06a7cc1f756bf2e11728b2b0cb1a5dd2a4104c9dbb61d"
+    },
+    {
+     "from": "2020-05-08",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9231b8da3d1fe6563aadc56dadf86911ca21ca268aadc48458f936bacdf614da"
+    },
+    {
+     "from": "2020-05-12",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "48f0af892cc8feaa9f58fe94305242aecfff2823a1474cf4535a900e7f77a679"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "16740cfbf94ac688991a68809087023e91ff29dbccfeb77daeafbcd9c702ae92"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ef66ee37f40442d4bf41011a30c76ef9094af73f5e8817b4eb75806a19862dc4"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "96df1e110812aab2d605ef6379c43712b85d1895033651b5489f260d0f66aedc"
+    },
+    {
+     "from": "2020-06-08",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "99caabfb8096152956ad5ae2fbb34a2fa190a4b5da291685af8450cd2fe8a4a1"
+    },
+    {
+     "from": "2020-06-09",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "481f9405112187242159e1efe7a3f0d0096006b12ea59a3e5f2564e5051a1597"
+    },
+    {
+     "from": "2020-07-14",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "dabc3eba344f04c6f0e46e8fa58b47a5846d25c03146f8ce53468f92817384ed"
+    },
+    {
+     "from": "2020-07-16",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6d07922f63e809b81cbefbcd8714960d0880f29470b4825e0ef925837ceb4158"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "dc01db16ae157e0f5f54dcb19e2f9a0923fb296d70ebae5592b6471a5dfebfb7"
+    },
+    {
+     "from": "2020-10-06",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8e16d17737053dd4a86df9260999798552e84f58c2478729446dd34dbcc39c46"
+    },
+    {
+     "from": "2020-10-30",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5847c392693a99e4ee722ebf58f5c86b58c5b2921a331ead9b350023bf976ef8"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0ce004b21741d2ba61043204a37aaddddb74b9f10f3b29e26b244b4a3e77dffa"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2c2395892133b1bfcfa05a668cefc45163021d95c781ad9064550c74b65230d0"
+    },
+    {
+     "from": "2020-11-06",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e7a1801952220ede158505625d3ad8fe8ee39698ab9b2a38659916f06c1b3131"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "819c7b54865518a54fcd8afe736d30555c501d76393a4fb6de94d7355bba67d7"
+    },
+    {
+     "from": "2020-11-11",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4f5d5fae421bf6636a1e21a43d0fbc7566e9d6a89c9497e8d1ca1a71ba2e478e"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5dd77606bbb22a1d9d133cf5f212c58d6fdb92e3e55a9544cdadc5c3d4d53f58"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e2ccbf5c6a176e037e02ce885f4432fc665099e7a33ec13776a1d095ec109f09"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "97bf7e3a29f8923d735ac10a018191869f328d49aeeb78cf1b59ed6996313aee"
+    },
+    {
+     "from": "2020-12-04",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d3b3069efe5787f189c85b519b2531dfc56121e0a08a4990f6cb87f591425ae4"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3781bbd220ac4bb4559dd0559072391ad20a01472b5677a6b92029d9f79ac601"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "71627d2ab9c5f7ef2117bbb3eae2c978a0dfc732128d7d2fb6be344d83742eab"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 129,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d192596a5e7b2483d5c2bb8bedc9144a11ef3a09072a52c7c2a7d09b85d23396"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "892a39458826aa60ff7f419d42505e3745a3b5c3e36516e2a893cbf7f701a444"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7dc6e1a34bb01e075e965688b339f37bafe6a720a0e835f1ae3425d2a631900d"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6a1c99d5695078f3d6d4b4d93773a100feb6282fe523ef78634a5d84799e4f9f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d968a98c4bf866f5f9802bd1e5f4c94d29dd99af5707d2755b50ef5d3cede4df"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "565c8940d3a66437845a031488ba5424e267252104d0e95cf4355d51a97e5090"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9fd6a7de9cd2ba030f2e6726a1004eb9c37bac4bde44d3dae7b1eede57fd6f9d"
+    },
+    {
+     "from": "2021-02-05",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6567ce7c67fca2f8217c22b8d872c65f29d3a94e53ff476c5cf5b063cc1ca3c8"
+    },
+    {
+     "from": "2021-02-08",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "71ad5dde4ee348410ba9a7796c9b751efc11e8da605b6a5481e65345ffeef921"
+    },
+    {
+     "from": "2021-02-09",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "74127855b860f37e4c70e911995fc90ee7536c6b7db573135c9e25935d371e30"
+    },
+    {
+     "from": "2021-02-10",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3c1d62e88b0bfb85de6fd9bb2e34029e7478aeeae37caafd7971fda9a73a6992"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7d2567f7dfc7ce1b171bb9d233682ca0b4768ab165eaf2cd1f122cfce863d2f4"
+    },
+    {
+     "from": "2021-03-09",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a2c71e054c098963baf53f4b48a8c194e2cc66662810c11aa956b6ed0f96c7ae"
+    },
+    {
+     "from": "2021-03-11",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e2912023861a34ca141cc418a9cb9bdc03671ee9beab09079e7fe90fb53b7a48"
+    },
+    {
+     "from": "2021-04-02",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d4da1339a204a922a6245707d617159e7f7ed2a9e652cc6dcac9ca8b304f74e0"
+    },
+    {
+     "from": "2021-04-05",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "bd71aadec27fd64a610daed9e8250ce6a74c793c97fb1837ff3f8bdff5fd8ffe"
+    },
+    {
+     "from": "2021-04-06",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "743724e587f179150b6f6ddf517c4f975c8c95009aabda82d67c30ea5193a8a0"
+    },
+    {
+     "from": "2021-04-08",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f70962402fcf69f979ac1db8a1f34b8b36da7d9317b7d8a9889e60d6d32266d5"
+    },
+    {
+     "from": "2021-04-23",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1cda3d6cebfe255a8b450c8a552217f688b5427237c6a5d52dd383b1c647e631"
+    },
+    {
+     "from": "2021-05-05",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "571d9fc2740260a8e3cd45f893814ef62b8f1adf3193043af36c444d7bc7bcbe"
+    },
+    {
+     "from": "2021-05-07",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4c40a091189e97e0c3bf644605f547f244a7bd160f6015986aa3c3e0e8a7194b"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1743dfe437b2df4ae4e27bffffd5fc19c5e3f5b9465a4bb69eed7d2c5c612540"
+    },
+    {
+     "from": "2021-05-28",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "bd59788ab39e463a8c174c736c71d0642c348572e1bc2fe38bd27eae62738444"
+    },
+    {
+     "from": "2021-05-31",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "92f2080a1c48e0d1af10839bf3de5b2ae81451758e0f92db586dc37527818d5b"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "aeae409515f47a876bd950c17e460373a7311cbb6458600a50e6953c348b242c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4d4eacf1e7d7994496f3559e66c7197279ee93ad7dd7bcc625ea6789ca49c2ed"
+    },
+    {
+     "from": "2021-07-02",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "79207847f3d704e50f3079eb562444938167c0ece0b146848fc3ccc2f1ac3356"
+    },
+    {
+     "from": "2021-07-05",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ec77101a5ca01ce6b73d2e27af4d3c44f1e8f1d859d976e9066ee011b8d57f04"
+    },
+    {
+     "from": "2021-07-12",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c53a12045c3c8cf4a8ed5fb35f94f39953b8ef5a2a1c0401200904cb3bb5a4ce"
+    },
+    {
+     "from": "2021-07-27",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "365bfc2e5e122563ed7cab3e905c6a393e041b8c675957959346e4b86aa09e04"
+    },
+    {
+     "from": "2021-08-03",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c807187350ccd05ac879fa530c495b2d792fdc3b6fbe263bc0719e514928cf75"
+    },
+    {
+     "from": "2021-08-04",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "35da6cc99948415a50330e7c221a4615955646e3ba8ae30ab757c25627455c05"
+    },
+    {
+     "from": "2021-08-06",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1a5459490983ad21e3c27671dfec9aa372ac4838c92f31b50119462eba2df2e0"
+    },
+    {
+     "from": "2021-09-03",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d16d86006efb5ae33639f7c9b9543c8b68e6d4c237fedcc3461556b5e4ff8b4a"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6c93524caa2a8a1e5c69c0fbeff6474dafcd59e7a8eb989260e62416196a4a6e"
+    },
+    {
+     "from": "2021-10-15",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "bd65496862cf33af097f5bd81dedda758f4c23e4598695987dd5d34f51e356e6"
+    },
+    {
+     "from": "2021-11-03",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a0a6e3e59a3f296c91cb1313287630458509daf340e249a59e32263732c832bb"
+    },
+    {
+     "from": "2021-11-09",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "44708e1729d0cafea11c658e5e9282167c7200635ba8551ca818d2d6ad37b5a2"
+    },
+    {
+     "from": "2021-11-11",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "99574a918bc2e45c66323612467f1546d6fbb28d3162c1c91d992bc778661136"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9d8b02a06a4621b71a3eb175130b20e27daf8ee0f0b573491a79b52ffb831882"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 138,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e667d36804b0561df126e1e6f74d3d42da69bfd1cc668fe1133a26df465f4906"
+    },
+    {
+     "from": "2021-12-07",
+     "units": 141,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "742986fe7360c8e2cd2157669a895e66df1278c9e0d306f4bf3642c6c38e36bc"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "58f12ae87ebbfb066d4551fe7dcd3c2f83bf09685a6b73a17c72bbd0a14a4952"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 147,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c7c3f1aac1983a5b227c8e828c5e88fcab8530c8c7cbec9e3fba550b855203d1"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 153,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ee91bbd135fb46fc2021045dbd6eb979837558ff9b9fa7d79de2e679e45da881"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0fff51a757ace7ad543d17fd52058171f89056105c79002f35034fe66c86d828"
+    },
+    {
+     "from": "2022-02-07",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2af9f6fea22cbb374d71119e5194ee24e38d1f8f199987e4542e0f5830615d14"
+    },
+    {
+     "from": "2022-03-03",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b3deb947d36cb5d6fc95107435890e51d4f82e685d494ed3f48514a09120e6f6"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5ab47b7e2f8a945355b2a0c6b865a3f474d79f923db65613fc07b7b9442bc825"
+    },
+    {
+     "from": "2022-03-15",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4a1558d88ae9218800f9fd6ed88bf43da9ea27568c37ae863f9f1e994b0ca327"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "99e10f56b6676b981866db37513a2e08439696988296eaa9e79422cd852a447b"
+    },
+    {
+     "from": "2022-03-28",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "df27158d2b6e4c8528f15726cc3cdfea7d3f8c4dbb41f907ee2621c5d53a27f1"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a85f97d37274c38b90df4e665220935835c377d2999ae99f619a034599ff571b"
+    },
+    {
+     "from": "2022-04-08",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2dc7e2b8aec51c25742c87fea28088954b859c8b1b55b1b9b523a1f582c4f8f7"
+    },
+    {
+     "from": "2022-04-21",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d0fc5960e8133f3e20c74be8dd1e3a16bcebfe688d6955ea46c9c2b09755a244"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "17854016fc2162d2e052b183af9edcf69ea840e5d0543d5975e6e78c607a3540"
+    },
+    {
+     "from": "2022-04-27",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fd94a7c0ee1f2ed84369c9b1e191e62b129fa17dc6d32c56beebb039bb41887f"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fc80ad58f1397309d6f779ba517dc8dda41f9c5b2d8a348436aaf93cb93de5f0"
+    },
+    {
+     "from": "2022-05-30",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "cb072a2d8f2a85ceed595b88066d9b635cd81b7770a768cf310e781f92515ad9"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6bc87048aaed7b92d53394648932ef0abf62330589af1c0f35d1167ea3b9904f"
+    },
+    {
+     "from": "2022-06-07",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ab32ca0527701da51087a03b46da7380ca8cd1a0f01ceafaae4da8c6383502f5"
+    },
+    {
+     "from": "2022-06-08",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2a1f113425154fbd622abef48172ad5d5990599089581dc8297e4fbda3d551c4"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7da94869c1dbf7aca10076964cdbd35f8cb9e90bc327430b82d662fb68940921"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5bf292c523a774c51dae1ec47ca9d446d2f96d200d4d4152259636d8e52f213c"
+    },
+    {
+     "from": "2022-07-12",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "aad58adf95cb622278e441adda421eb2c39e1d2e04b429a69bcc77a19ec0ae34"
+    },
+    {
+     "from": "2022-08-05",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fe510e5cfd89db3b0d47af19f99e4b090fbabdde00d63bc1c1966d675a66b0b3"
+    },
+    {
+     "from": "2022-08-09",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9974a812008fc2df30f4ee3d06c7d8ce00acb17ef21e962ca2a295b7546d7de5"
+    },
+    {
+     "from": "2022-09-13",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8c3ad7509ad4befa0e2bea78e8b0632ae4bec0f6a19acf913765b23327214f83"
+    },
+    {
+     "from": "2022-09-16",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d52be7e501d234797ebab5e3bcff64b7ba4f96a0b21d2cda3f99aa23ac42bcfc"
+    },
+    {
+     "from": "2022-09-20",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e13445bbc6d1f31bfae3b298e96b51925b2eec832becc935295f60f0e12d8862"
+    },
+    {
+     "from": "2022-09-23",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2f3806a5686a8f11c7a90a41f92467ae6c8b3ec48fe3c27b660374d6c79b0a34"
+    },
+    {
+     "from": "2022-10-04",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a759745a858e9e9fb6241be30a2e01a09bee975ebd119991e00c0af891f2147b"
+    },
+    {
+     "from": "2022-10-27",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6b1597bc6a540f2b152ac6efe2c1fcd16c63eef67b466784e9432c064b4e70a0"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "486c1fed481a77c086b40c3780dec21c9d9053ff562518bbad26dc180293b39f"
+    },
+    {
+     "from": "2022-11-08",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ce29092506879350595f598e907cc1e819f3f18b8184dcb0db871a2c5a87b86b"
+    },
+    {
+     "from": "2022-11-09",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b1ca6ad0950b03f902d12b43b07a7fa6a542e347fed100492f78e597a3fb3fc6"
+    },
+    {
+     "from": "2022-11-11",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a24da881b3671a6a2890ff53f563aa4440bd9b3f4c1716dbacde8ca06e671d5a"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "962a1e9a3a95fb0632c89f63f07c9a4593fc56181cbffeb89ce4ae8b25b579e0"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c4008e04ca17412a2d3950ebfd6c6a2f4365ad55785fe1a135068b1417373292"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3c3711e56893bc2410f00c60bb3e511e4e565e04ff524646da53838c587e9f76"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e212de1e5677ad889dd54f259b36bcf1726aadef13b25862e2a86440e06aec0a"
+    },
+    {
+     "from": "2022-12-26",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "db8c92915cdb232a17ac050cb6316d22cd006c912d37aa5736df89c49d870823"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f4de24bc9871724186ae8d34f0459bccc5d1c55f356f9b8d69d52b37860e62d2"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 150,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7beab9a3fad11825441544b081165ad858b72d5567b6b222727317ffd1eb485a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1dafc5075f727599ecb6e2eae42313c0ab230efdf03d31c7d34378cd7fb28cca"
+    },
+    {
+     "from": "2023-02-03",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "88df42acc582fb0c64320a73d9ce447ff90cd9c20dbfc2e4f9d1c5edb7378f02"
+    },
+    {
+     "from": "2023-02-07",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2f7cbcd7ba35d5c34f1e48293325d1bc9cfce1e5abbeb7d79338ef58148b9c3a"
+    },
+    {
+     "from": "2023-02-28",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "886b99e5ffbaed458c25f9f46bc2eeed985bf28a14fd1ef4b914a71da8515b80"
+    },
+    {
+     "from": "2023-03-10",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "52969dfd5e884a3ed2fbfc1e61eb0d50b87d0742194c50b9d5b353465f97185d"
+    },
+    {
+     "from": "2023-03-13",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "673f1bc01d2c6bafd09338a2af6134289c678620dbc4759734ed9d4b96f3252c"
+    },
+    {
+     "from": "2023-03-14",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8670f559ba5b1ab538180cd5be0f1bb8aaea04a8ad14b61d17dbfdab155ee342"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "70787d1a291a33e204a358bd99dab61db2198795186ebb9a662e9fc0d13b859a"
+    },
+    {
+     "from": "2023-04-10",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ff918c42b4c08c958c9c7e4bc9e71a44fcf96025ef6601b4ba0b9b18c06e4cb8"
+    },
+    {
+     "from": "2023-04-12",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "71089384ed70ce03bf094ce295c156d9a7002dfe1768832da5125b3246281931"
+    },
+    {
+     "from": "2023-04-20",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "711532434472cb69a47766b1df8019ed7cbcdc9262df013bd1e7ac7e9a20eac1"
+    },
+    {
+     "from": "2023-04-24",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7e85c3d0d216d2005575e7c2e9a8cf53e135456e69f9d0f7bc259c1e0ed6381e"
+    },
+    {
+     "from": "2023-04-26",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b54d32d09fb4f7ce6ec2824b1539b89b8ec551d69e0cd9c830800612ec2dd936"
+    },
+    {
+     "from": "2023-05-05",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f94c6fb7feb5acd340db37b675197b9d1ea5b0d2363b53302d9ba0ad36a92906"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6afe028909edff9d141122f3ed369d20554565155285438d4dd34174ac6fd41d"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5d2c8064d46259011cbe47f23f473beeda56cf11ef479eeb6f2e08ca8439e5ee"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8eb61ee45048d066ae28406719347609806d42ec7a97469ad67ccb61c3a657d0"
+    },
+    {
+     "from": "2023-07-04",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4afbb4f43c7430da708eb08ee78bddc5f2ea94e9ba4e5e0f1d713b628e8ed398"
+    },
+    {
+     "from": "2023-07-08",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ee31bfc3ed014a9b1cef1fc8c8a19ef674a97b5b9044767034a899133276ffa9"
+    },
+    {
+     "from": "2023-07-13",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ea9c91e8975df703871b775f9f6b4517c42fe92226a0fada694d64162dccdc37"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "95a1a09b0eeeb249f9396bd7e949cb766d627c10338bb41704a5cdece3ea0ab8"
+    },
+    {
+     "from": "2023-08-07",
+     "units": 142,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a56eed20ad9405ba56cce1cf9b76989ad3edaec62622784fdd6063211a06827f"
+    },
+    {
+     "from": "2023-09-06",
+     "units": 147,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f7b4257494e640116ae26f9d6f86f9e037b52d9b0734e2bbbe56c48383a39abb"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 151,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "86a9da32f65c9b158c7d79877e6a47631cf04fdf8bbb1184f8088819c71d242b"
+    },
+    {
+     "from": "2023-09-22",
+     "units": 152,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "65d96a648978a55f78145da9991a444ccadcb403a708e3ff2b80089e7f19f20f"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 156,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f4e29fa6d1305b44c002e9dfc199bc34ea787e5de435d2d735ad10abd43bc444"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 157,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "cb6513d72a42e0a0322349cf194835e06c992f9968779e675e9380915f240e14"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 171,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f214bd0847fa4ab3b1cbbdc7717a789e4089f5c677f0c792d27005cbcee3c589"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 174,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3b4693e572431354ee509e8c5229c238ce002c15be54f10da9d396b844d9ee13"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 176,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0225551cade6e314934727e8feb83b98fcc1d073fc91ac177a87addb130950af"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 182,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4349d045d4bd33fff4ba7e011ebb72127e8eaee9487e07fbfc77d9d90b0f07ee"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 183,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d1c32eef31e73229922a1238c92b75c376258a5aeb900504d298d1f83535dcf2"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 206,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e36951a5ec015a335f97cefcd6703a08ee9541373f102e0b10cfb4f7734450e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9e687879853d722e46b98b893962bb6b6065a06f50001786f9534b3ab72b12d0"
+    },
+    {
+     "from": "2024-03-15",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1ad11d82b0f85fdbafba87f904f865968abda53021bb4e9f3e459ec1711e0dff"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f39a96fb36fabb24f9e4963ea560f3b9d0048c63a4cddc36cb3534974057a865"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c71b691bf45eb1d9a3b51ad8ddc74c76483aa16d14701e422d8b5f6a12bde318"
+    },
+    {
+     "from": "2024-04-10",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ba7dc2ede0045155112a25aaff430898650dc5299f8d9042b0a20c44d48a3e68"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "906ec630fa967c9021552f165205c70d485daac05c5f9aedcc1c68a43519d0c8"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9eb32a030ef9716837fe28f7c6a0d8b211a71a261f3079a4bcf6eeac829d13d9"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "a9ee23a0c1297dddf5ce303934ad0cf64fe5f734d95836e350e2aca7bde22109"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d552ad8d931ac9a479c58a20ca785a79a827dbb8c4a39d066b09f9ce7e759c5d"
+    },
+    {
+     "from": "2024-05-31",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d06bfe0caf36c303cac25eea1775203a1297db37debde038480fc27e7baa82b2"
+    },
+    {
+     "from": "2024-06-10",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "00a1a4b90944dd3c42cc18cc544f054e834520bf3cef3b254700a69317bb3f7f"
+    },
+    {
+     "from": "2024-06-20",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "66c8c1d5363a08a5dd30fc818767320bdb6323dcc0111118758c6601a0b147bb"
+    },
+    {
+     "from": "2024-06-27",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ef5a46c9eccf7a172ababf522203e5788bfda5610358507d0df2d0f039eb62db"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c83310259a09fad6f04181dcff10f1b0d4bb0cae797511f74d9be7b414bbdba0"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "08bc240f004fe10fee59d15b5bb9a1febce013296bb08aa8979bbff7b21710b6"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fa34d71ef1bbe897b61bfeeec003b93739d7331bee9d094870bafa5332b4b916"
+    },
+    {
+     "from": "2024-08-09",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d8f39f7e9a0822e6bdb452804e3a1d2559f69d543ec39700621676f352d0e8b4"
+    },
+    {
+     "from": "2024-08-12",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "26689a1fb7e8691ad23079889c6b415763308335b1d53417d23a40bfe1428947"
+    },
+    {
+     "from": "2024-09-16",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f4a37258c5ee288306e39367a761351a8d5f158add9de8836a3163bf99609d53"
+    },
+    {
+     "from": "2024-09-23",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e2506d495deb9ee5b7eb67a85e57e7359686e486dbd9631900254ef63793cc21"
+    },
+    {
+     "from": "2024-10-03",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2bf17fdbe156caf293d4ea8ab15daf4443ef0e2995194d9c2836c440f703b4ac"
+    },
+    {
+     "from": "2024-10-04",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ad64ca80c2560d16ae053d1e2185531322bd7b4bb791a174ff80ef903e589a19"
+    },
+    {
+     "from": "2024-10-07",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "870ebdae0ebcff35a99fbb4973506fd49e69d8de5d54f92b1ba502fc20482231"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f4b851cc458d1933797c60c3e13e0c3121d83885603dce7dc3a7cb5d5c8b4c03"
+    },
+    {
+     "from": "2024-10-31",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f9203f54309bbd00bd1e93aef8b782ceed515ce4d6b75e49ddc627689dd491c6"
+    },
+    {
+     "from": "2024-11-08",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2e03c785b8679ea7944734dc74b56cb89e8cfa74606f2474cf4514c8efea5e09"
+    },
+    {
+     "from": "2024-11-11",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fbe69d044e391c87fea80ded63ce021f0e7039716fe8fab7d8f87a3481dc21c0"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ee443d7ce35ddcbadfc5f1a69e2c225fcb8f4cbb476ef25ba193c84d482c93d9"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 143,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d1fc3111717fe914843a4c3d7571833bc028defa58c420d9280c421b4e9b81e1"
+    },
+    {
+     "from": "2024-12-09",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "79be35a9d3c33471736d4e0e2cc7dc60486477e1b24527afe14e215939d2eb81"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3a891c047a511e9965c83533c6d7094623ef338325c38990735fd1c4304191ff"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 153,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5791f222d6aa5c4cec4f36d2aff139af32f093ee08609a5781b2bd454748f3e8"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 168,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f919c9cebc227b29544b7116582cfe7e1d112e36fce5a8b0dfcd3bc24569b3ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "298d74ff65751c6ad00bc52e2406a5bcf70f7a630f795f2d8e174e51c0559a8a"
+    },
+    {
+     "from": "2025-02-07",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1d69dfad192c98fe5b9dfb88f0193fe49358eba76668bb8736aaec974e60f2ec"
+    },
+    {
+     "from": "2025-02-10",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "2a4dc3703a1e9df3b61098a3e0a96ecdfc066554d68f05a452ea666bfa582ee0"
+    },
+    {
+     "from": "2025-02-11",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9374a2e5b2d7f3a34745243fd57157e68ad7c2ecc92d6e8a787d64b630abbab4"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b696e479b503cbfc9d0fd0f0b84687827e991ccbe9b670e1639cbaa812951b56"
+    },
+    {
+     "from": "2025-03-07",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3b7e18b92a112f8cc08891c69922c982fc286b6253e5d1f6779bb6d24178d125"
+    },
+    {
+     "from": "2025-03-27",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "1763e4ce7f15f3debf539401756b9b6b532894e414382d8fa71b68f56d5b911c"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f235b6e247409d97ce3de5e74b1c628d59352cb389f7d2274dc7e91cf4bc2ea4"
+    },
+    {
+     "from": "2025-04-03",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ddea3d209db79c4400a6a91a2fa3f3360f0c5968f5712023f9391ab3316d73cc"
+    },
+    {
+     "from": "2025-04-25",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "efc3727d3f54a4367c13f00a944bb7f3e942654b220fd913fe626eb450d8ea74"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "073141988a1540ce637e67272af4a370bb445dbc9e12e282d497756f679a6824"
+    },
+    {
+     "from": "2025-05-06",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "afc9b5991f8af75c531f2978a9e6601188381322b3a3a9b9227aab2fb323314b"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b54f921345b0f6f0a97bd98709748594004f937047621e5fb1ebb739cb4fcaa3"
+    },
+    {
+     "from": "2025-06-05",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7fe4fbb9462faec03bacc2d9d35b16af2eeead2eab62d179982b510cb61b0f0a"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d18ccb8b8a93f4aab7915e4b8a5ab62c1e803e14e25278b57a09bf0ad5ca3c6d"
+    },
+    {
+     "from": "2025-06-09",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "557d323fdc38b4239d804da87cf055ba02b5ab3442c23750c6e56782a558dcbc"
+    },
+    {
+     "from": "2025-06-30",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6d2f05d881f7da86b5afeeeb255127b21c91e6a85f45c73df708d18b6428413a"
+    },
+    {
+     "from": "2025-07-02",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6ba198194814505dc2f574932ef500047a161ec812d265d6d14b709827cd9d34"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4b7c1d6c6856ab7773283e9c122588c47a2f6f4d7a2844691b630d8395729caa"
+    },
+    {
+     "from": "2025-07-07",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3db181ca8273adf0fa51818bb12c4b5da941314633077eeb1bc8a4922b7ad21a"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "62194b04b59df3417ec9e6432b4e2e5f5a3ae1a96c882bdf7317bdca402b2abc"
+    },
+    {
+     "from": "2025-08-07",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0af9796f121297be39f57310466d1d645973613d67774ca8ad349ca9377a194a"
+    },
+    {
+     "from": "2025-08-11",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ca31a0980ae690d012d35513ad1341c4a57e858c55622c79f36c49bf6dff5d96"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "85ca9687c9fdc3ab0da1d034acddf9413978a90ff6fae80d7fa71095367eb8d9"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "701c48ef710769b57f23ff7e7dcf88e4a52dbb689bd65ab29911b6cd4abb0cef"
+    },
+    {
+     "from": "2025-10-07",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3aadec83dd0c090b2855ca26679496ccab02a88e722546e9fb55925d6da4c08c"
+    },
+    {
+     "from": "2025-10-09",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "c4fd90098e425ca8f5f8690e293fdd5de5b9ebd9de2b268f55b4e2315fff686c"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b9074a7a70b6af64ec0e6fff2195e0307c09c68b292522bd72e73636e198d59e"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 126,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "48d991b6250cb6a663fbe0c5df7a2e313b92eec0575604c801b6b19d4eb079af"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "03b296abd3003e2342ca282e149f7acdc30b5868edaaee50fe2b025b8460e326"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5c73dd748b0bc19e921071c5ee0849df85d733596658e41f336fad15c42132a7"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "3febb844dbebd8dbd12bbed8a6808dc3c973236f5b6ed9f62c3be717fc229696"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "f5fb4adcac091faf06d39b84022b44b78f7ce7ada061851fc7589eee56da65c1"
+    },
+    {
+     "from": "2025-12-08",
+     "units": 144,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "7b895b7a5f0243d9d8a62677e31d9baca1d97db9ea7db237fb2bd9b849160c88"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "66717150cc8e0140fa57df02c13cb38dd3db75451d9ead2cb1e121d658dfb9e9"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 146,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "ce1a65c5477cafe759d62392b3349ff5e6a1a3ef2ea64cff9dbb4cb3bb132412"
+    },
+    {
+     "from": "2025-12-26",
+     "units": 147,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "035ecb9558ba187db05a4fe366c03c6fabbbde1e5710b6d185bab87d97848e90"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 165,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "274ccfb53d0f59be9068fad0e403b2207fdf790d2779ef4dbc0e19979a96a1ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Vladimir Oblast: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region33",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "67bc61fad153faea30920e2a5815d56c5e025cccb959f8372a78075c09591f24"
+    },
+    {
+     "from": "2026-02-07",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "80fda07dce589b8167b03c2e36be685cafe339c8edbfc647db16b1f2503ac349"
+    },
+    {
+     "from": "2026-02-10",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "6cb1cd4ed1b5055c0c4b237b59e027c015a8f9018c159d12602fbcdb4c2d19b1"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9450e222e0f9b406e9c0b8398754a07834378148a7169138bb92996d07b8dfa4"
+    },
+    {
+     "from": "2026-03-11",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "499d1cfcc7d4bde725b4fbedc0af4908638edec76138589bb93a27878ebc76b0"
+    },
+    {
+     "from": "2026-03-27",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "79f5662454a6b77a2499ddf774e491c758b7624f6eeaeb74bf1569b67c15538d"
+    },
+    {
+     "from": "2026-03-31",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "5062f3a5433ae47440b332ba5d6b7fa21f4c4f44b5d190cf90b72dbb602aa652"
+    },
+    {
+     "from": "2026-04-03",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "0a0bed771ec7a1593a23cf7b32787b80096e0e777a734e10e2b8b62d43c442ff"
+    },
+    {
+     "from": "2026-04-08",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d81d965d0c13d83feed54a4492157231e07049b87940fd3b2d3577141ff988a0"
+    },
+    {
+     "from": "2026-05-07",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "df3bca2b615a7737f5c926ef5476c5e7e9c6711c630d1b8372cd3382591e77a6"
+    },
+    {
+     "from": "2026-05-08",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "005f849cc61fb585b8d96c222cc32f3d03d4725a3045710a3c59a145002c002a"
+    },
+    {
+     "from": "2026-05-13",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "477c70f49374147f2dd726d0b015ccba5af9f77d9558b6c2c192798f27d4c48b"
+    },
+    {
+     "from": "2026-05-22",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "e6a7948c1bba0078c318d50d4fae71e139e03feff0e6fdeab5b9787bc5d8069e"
+    },
+    {
+     "from": "2026-06-02",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "d61b55aa67a61cc363d05abda0968cca20765602e7edd8d9c756f4c379b9b6da"
+    },
+    {
+     "from": "2026-06-08",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "8d0ae6154d65a2fbb4b49bc0f73c8ac071ce2ebb634f26cee59c609a8be3d09b"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "fadc44e2ef4cb1fe7f70ae86e4abd5b184dde80c6de90d7da2af52331caecfa3"
+    },
+    {
+     "from": "2026-07-08",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "20c2316687adf200893c140dce6339056e2ee124d69eccc3d4d70430bbb4725b"
+    },
+    {
+     "from": "2026-07-09",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "51cde76ae1dfeaee2a41c4b3db2a55fe17bec0aa241db1f42574cbc15b1b3b6e"
+    },
+    {
+     "from": "2026-07-10",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "9f1929fe7ca2831721e7edb707c54eef2b28290db283e8909ee06d0dd4498ab5"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "b1c8137dd42eadd7a34a2242eb94db0859f29f6f469bec893781ab8e8eb8f509"
+    },
+    {
+     "from": "2026-08-06",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "963d5a27d81144666c5b023670e0c0bdfeb01f6edbdb7f0110e6d4e595f794b5"
+    },
+    {
+     "from": "2026-08-10",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "441463e17cf7e861c62b55f2132181d72b84cfeac192f822b8ed9212b19dbfcb"
+    },
+    {
+     "from": "2026-10-13",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "838e4d1505b9f4d45e0f15d08220dc37bc46454653d9df12320de8bb1a999774"
+    },
+    {
+     "from": "2026-10-14",
+     "units": 141,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "4e6c5cf369cbaf0856f9c757574145437f29c9bb641ffc266e939b2850c83af4"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 145,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region33",
+     "sha256": "56c36dc99ce5d1dbe649501f030f0132aa4f55b862d816d83af0111f1a4b2914"
+    }
+   ]
+  }
+ ]
+}
