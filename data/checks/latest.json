@@ -1,0 +1,120 @@
+{
+ "generated": "2026-11-24T15:02:42Z",
+ "latest": {
+  "pravo-vladimir|russia/vladimir/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 2007,
+    "current": 1988,
+    "gone": 0,
+    "held": 1988,
+    "newest_in_repo": "2026-10-30",
+    "pending": 19,
+    "repo": 1988,
+    "source_in_scope": 2007
+   },
+   "check_id": "ru-pravo-vladimir-20261124T150045Z",
+   "commits": {
+    "count": 3,
+    "from": "d9b5be33322ab69e9c84bc4547682c7d98af15bf",
+    "to": "a9ee78c4a2baed3eb417715aaa24f59fb96bef96"
+   },
+   "corpus": "russia/vladimir/acts",
+   "error": null,
+   "finished": "2026-11-24T15:02:42Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region33: 2007 law-type documents listed (every page read); 1988 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "3300202611060006",
+     "3300202611060008",
+     "3300202611060009",
+     "3300202611060011",
+     "3300202611060012",
+     "3300202611060013",
+     "3300202611060014",
+     "3300202611060015",
+     "3300202611060016",
+     "3300202611060017",
+     "3300202611060018",
+     "3300202611060019",
+     "3300202611060020",
+     "3300202611090001",
+     "3300202611090002",
+     "3300202611090003",
+     "3300202611090004",
+     "3300202611090005",
+     "3300202611090006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 14,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "3300202611060006",
+     "3300202611060008",
+     "3300202611060009",
+     "3300202611060011",
+     "3300202611060012",
+     "3300202611060013",
+     "3300202611060014",
+     "3300202611060015",
+     "3300202611060016",
+     "3300202611060017",
+     "3300202611060018",
+     "3300202611060019",
+     "3300202611060020",
+     "3300202611090001",
+     "3300202611090002",
+     "3300202611090003",
+     "3300202611090004",
+     "3300202611090005",
+     "3300202611090006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2007 law-type documents in block region33; newest published 2026-11-09",
+   "source": "pravo-vladimir",
+   "started": "2026-11-24T15:00:45Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 457,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
