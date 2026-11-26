@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:03:39Z",
+ "generated": "2026-11-26T06:20:55Z",
  "latest": {
   "pravo-vladimir|russia/vladimir/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2007,
     "source_in_scope": 2007
    },
-   "check_id": "ru-pravo-vladimir-20261125T064909Z",
+   "check_id": "ru-pravo-vladimir-20261126T060755Z",
    "commits": null,
    "corpus": "russia/vladimir/acts",
    "error": null,
-   "finished": "2026-11-25T06:50:36Z",
+   "finished": "2026-11-26T06:09:08Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region33: 2007 law-type documents listed (every page read); 2007 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2007 law-type documents in block region33; newest published 2026-11-09",
    "source": "pravo-vladimir",
-   "started": "2026-11-25T06:49:09Z",
+   "started": "2026-11-26T06:07:55Z",
    "unexplained": 0,
    "update": {
     "parts": []
