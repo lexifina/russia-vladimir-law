@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Vladimir Oblast: Official Internet Portal of Legal Information (region33) · `russia/vladimir/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 06:09 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 06:01 UTC**.
 - Acts held here: 2 007; current at the source: 2 007; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
