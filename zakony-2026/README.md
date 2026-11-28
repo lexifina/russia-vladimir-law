@@ -1,6 +1,6 @@
 # Vladimir Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 27 versions, from 2026-02-04 (latest in force: 2026-11-09) · <http://publication.pravo.gov.ru/documents/block/region33>
+Законы 2026 · 28 versions, from 2026-02-04 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region33>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -77,6 +77,10 @@
 | Закон № 162-ОЗ | [162-oz.md](162-oz.md) | 1 | 2026-11-09 |
 | Закон № 163-ОЗ | [163-oz.md](163-oz.md) | 1 | 2026-11-09 |
 | Закон № 164-ОЗ | [164-oz.md](164-oz.md) | 1 | 2026-11-09 |
+| Закон № 165-ОЗ | [165-oz.md](165-oz.md) | 1 | 2026-11-27 |
+| Закон № 166-ОЗ | [166-oz.md](166-oz.md) | 1 | 2026-11-27 |
+| Закон № 167-ОЗ | [167-oz.md](167-oz.md) | 1 | 2026-11-27 |
+| Закон № 168-ОЗ | [168-oz.md](168-oz.md) | 1 | 2026-11-27 |
 | Закон № 17-ОЗ | [17-oz.md](17-oz.md) | 1 | 2026-03-11 |
 | Закон № 18-ОЗ | [18-oz.md](18-oz.md) | 1 | 2026-03-11 |
 | Закон № 19-ОЗ | [19-oz.md](19-oz.md) | 1 | 2026-03-11 |
