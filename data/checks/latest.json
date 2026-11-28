@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:45Z",
+ "generated": "2026-11-28T06:27:02Z",
  "latest": {
   "pravo-vladimir|russia/vladimir/acts": {
    "attempt": 1,
@@ -12,26 +12,35 @@
     "sampled": 2
    },
    "census": {
-    "checked": 2007,
+    "checked": 2011,
     "current": 2007,
     "gone": 0,
     "held": 2007,
     "newest_in_repo": "2026-11-09",
-    "pending": 0,
+    "pending": 4,
     "repo": 2007,
-    "source_in_scope": 2007
+    "source_in_scope": 2011
    },
-   "check_id": "ru-pravo-vladimir-20261127T060110Z",
-   "commits": null,
+   "check_id": "ru-pravo-vladimir-20261128T061339Z",
+   "commits": {
+    "count": 2,
+    "from": "40f75f7c89018d37f009e698e28d3a1e5c7eeacb",
+    "to": "3fc45e06bd9fa2993c736a4f9f7569c5a8126035"
+   },
    "corpus": "russia/vladimir/acts",
    "error": null,
-   "finished": "2026-11-27T06:01:56Z",
+   "finished": "2026-11-28T06:15:34Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region33: 2007 law-type documents listed (every page read); 2007 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region33: 2011 law-type documents listed (every page read); 2007 held here; 4 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "3300202611270008",
+     "3300202611270009",
+     "3300202611270010",
+     "3300202611270011"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +48,31 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "3300202611270008",
+     "3300202611270009",
+     "3300202611270010",
+     "3300202611270011"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2007 law-type documents in block region33; newest published 2026-11-09",
+   "snapshot": "2011 law-type documents in block region33; newest published 2026-11-27",
    "source": "pravo-vladimir",
-   "started": "2026-11-27T06:01:10Z",
+   "started": "2026-11-28T06:13:39Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +81,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 457,
+    "versions_checked": 458,
     "versions_differ": 0
    }
   }
